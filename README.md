@@ -1,4 +1,3 @@
-> ![Logo Kinvo](https://github.com/kinvoapp/kinvo-mobile-test/blob/master/logo.svg)
 
 # Teste para candidatos à vaga de Desenvolvedor C#  
 
